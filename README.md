@@ -21,3 +21,10 @@ Invite EchoBot to your Discord server and unleash its power! Simply use the prov
 💡 Have ideas for new features or improvements? We love feedback and contributions from the community! Feel free to open issues and pull requests on our GitHub repository.
 
 Let EchoBot become your reliable companion on Discord, and together, let's make your server experience even better! 🎉
+
+
+# Usage
+
+🆘 Type `\help` or `_help` to get a list of commands
+
+🤫 Commands with the `\` prefix get their response sent in the same channel, while commands with the `_` prefix get their response sent privately in DM
